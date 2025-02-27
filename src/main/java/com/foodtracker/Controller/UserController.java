@@ -1,4 +1,4 @@
-package com.foodtracker;
+package com.foodtracker.Controller;
 
 import com.foodtracker.Models.User;
 import com.foodtracker.Service.UserService;
