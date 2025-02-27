@@ -1,6 +1,6 @@
-package com.example.demo.Repo;
+package com.foodtracker.Repo;
 
-import com.example.demo.Models.FoodEntry;
+import com.foodtracker.Models.FoodEntry;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 

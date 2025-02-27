@@ -1,6 +1,6 @@
-package com.example.demo.Service;
-import com.example.demo.Models.User;
-import com.example.demo.Repo.UserRepository;
+package com.foodtracker.Service;
+import com.foodtracker.Models.User;
+import com.foodtracker.Repo.UserRepository;
 import org.springframework.stereotype.Service;
 import java.util.Optional;
 

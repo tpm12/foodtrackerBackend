@@ -1,4 +1,4 @@
-package com.example.demo.Service;
+package com.foodtracker.Service;
 
 public class FoodEntryService {
 }

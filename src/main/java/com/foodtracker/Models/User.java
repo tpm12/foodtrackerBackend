@@ -1,4 +1,4 @@
-package com.example.demo.Models;
+package com.foodtracker.Models;
 
 import jakarta.persistence.*;
 

@@ -1,7 +1,7 @@
-package com.example.demo.Service;
+package com.foodtracker.Service;
 
-import com.example.demo.Models.WaterIntake;
-import com.example.demo.Repo.WaterIntakeRepository;
+import com.foodtracker.Models.WaterIntake;
+import com.foodtracker.Repo.WaterIntakeRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
